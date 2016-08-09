@@ -17,7 +17,6 @@ public class LambdaPractice {
 		primes.forEach(element -> { System.out.println(factor*element); buildStr("xx");});
 		
 		
-		//"peter"->buildStr();
 		
 	}
 	
